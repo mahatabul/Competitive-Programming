@@ -1,6 +1,6 @@
 # Codeforces_submission
 
-This repository contains my solutions to various problems from [Codeforces](https://codeforces.com/). Each solution is implemented in C++ and is organized by problem code and contest.
+This repository contains my solutions to various problems from [Codeforces](https://codeforces.com/). Each solution is implemented in C++/Python and is organized by problem code . My codeforces handle (https://codeforces.com/profile/Md-Mahatabul-Islam) .
 
 ## Repository Structure
 
